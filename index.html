@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Inditone – Bharat Ki Dhun</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="app-header">
+  <button class="menu-btn" onclick="toggleDrawer()">☰</button>
+  <div>Inditone</div>
+</div>
+
+<!-- DRAWER -->
+<div class="drawer" id="drawer">
+
+  <a href="#" class="drawer-back" onclick="closeDrawer()">← Back</a>
+
+  <a href="index.html">🏠 Home</a>
+  <a href="category.html?type=movies">🎬 Movies</a>
+  <a href="category.html?type=webseries">📺 Web Series</a>
+  <a href="category.html?type=music">🎵 Music</a>
+  <a href="category.html?type=sports">⚽ Sports</a>
+  <a href="category.html?type=livetv">📡 Live TV</a>
+  <a href="category.html?type=shortvideo">🎥 Short Video</a>
+  <a href="category.html?type=podcasts">🎧 Podcasts</a>
+
+</div>
+
+<div class="drawer-overlay" id="overlay" onclick="closeDrawer()"></div>
+
+<!-- MAIN -->
+<div class="main-content">
+
+  <!-- HERO -->
+  <div class="glass-card">
+    <div class="card-title">Inditone – Bharat Ki Dhun</div>
+    <div class="card-desc">
+      Discover movies, web series, music, sports and global entertainment platforms in one place.
+      A unified gateway connecting users to streaming and media ecosystems worldwide.
+    </div>
+  </div>
+
+  <!-- CATEGORY GRID -->
+  <div class="grid">
+
+    <a href="category.html?type=movies" class="category-box">
+      <span>🎬</span>
+      Movies
+    </a>
+
+    <a href="category.html?type=webseries" class="category-box">
+      <span>📺</span>
+      Web Series
+    </a>
+
+    <a href="category.html?type=music" class="category-box">
+      <span>🎵</span>
+      Music
+    </a>
+
+    <a href="category.html?type=sports" class="category-box">
+      <span>⚽</span>
+      Sports
+    </a>
+
+    <a href="category.html?type=livetv" class="category-box">
+      <span>📡</span>
+      Live TV
+    </a>
+
+    <a href="category.html?type=shortvideo" class="category-box">
+      <span>🎥</span>
+      Short Video
+    </a>
+
+    <a href="category.html?type=podcasts" class="category-box">
+      <span>🎧</span>
+      Podcasts
+    </a>
+
+  </div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+
+  <a href="index.html" class="bottom-item active">
+    <span>🏠</span>
+    Home
+  </a>
+
+  <a href="https://qbank.nftraja.com/" target="_blank" class="bottom-item">
+    <span>📘</span>
+    QBank
+  </a>
+
+  <a href="https://tool.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🛠</span>
+    Tools
+  </a>
+
+  <a href="https://www.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🌐</span>
+    NFTRaja
+  </a>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
