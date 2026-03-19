@@ -8,11 +8,17 @@
 function toggleDrawer(){
   document.getElementById("drawer").classList.add("active");
   document.getElementById("overlay").classList.add("active");
+
+  // 🔥 BODY SCROLL LOCK
+  document.body.classList.add("drawer-open");
 }
 
 function closeDrawer(){
   document.getElementById("drawer").classList.remove("active");
   document.getElementById("overlay").classList.remove("active");
+
+  // 🔥 REMOVE SCROLL LOCK
+  document.body.classList.remove("drawer-open");
 }
 
 
