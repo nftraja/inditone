@@ -64,13 +64,13 @@ html,body{
 
 /* ================= MAIN CONTENT ================= */
 .main-content{
-  padding:60px 2px 70px;
+  padding:65px 2px 60px;
 }
 
 
 /* ================= TYPOGRAPHY ================= */
 .card-title{
-  font-size:15px;
+  font-size:14px;
   font-weight:600;
   margin-bottom:5px;
   color:#66ffb3;
@@ -86,7 +86,7 @@ html,body{
 
 /* ================= GLASS CARD ================= */
 .glass-card{
-  padding:15px;
+  padding:18px;
   border-radius:var(--radius-lg);
   background:rgba(255,255,255,.04);
   backdrop-filter:blur(10px);
@@ -103,7 +103,7 @@ html,body{
   display:grid;
   grid-template-columns:repeat(2,1fr);
   gap:8px;
-  padding:8px;
+  padding:10px;
 }
 
 
@@ -112,7 +112,7 @@ html,body{
   position:relative;
   display:block;
   border-radius:var(--radius-md);
-  padding:10px;
+  padding:12px;
   text-align:center;
   text-decoration:none;
 
@@ -180,8 +180,8 @@ html,body{
 /* ================= LIST CARD ================= */
 .list-card{
   border-radius:var(--radius-md);
-  padding:14px;
-  margin:8px 0px;
+  padding:15px;
+  margin:8px 4px;
   background:rgba(255,255,255,.03);
   border:1px solid rgba(0,255,136,.25);
   box-shadow:
@@ -237,7 +237,7 @@ html,body{
 
 .drawer a{
   display:block;
-  padding:12px 14px;
+  padding:10px 12px;
   font-size:13px;
   color:#00ff88;
   text-decoration:none;
@@ -286,6 +286,7 @@ html,body{
 
 .bottom-item span{
   font-size:18px;
+  margin-bottom:5px; 
 }
 
 .bottom-item.active{
