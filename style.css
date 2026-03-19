@@ -31,6 +31,7 @@
 }
 
 html,body{
+  touch-action:manipulation;
   background:var(--bg-main);
   color:var(--text-primary);
 }
