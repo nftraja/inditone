@@ -61,7 +61,7 @@ html,body{
 /* ================= MAIN ================= */
 
 .main-content{
-  padding:62px 8px 30px;
+  padding:62px 8px 35px;
 }
 
 /* ================= TYPO ================= */
@@ -92,10 +92,6 @@ html,body{
     0 6px 18px rgba(0,0,0,.7),
     inset 0 1px 0 rgba(255,255,255,.15),
     0 0 15px rgba(0,255,136,.05);
-}
-
-.intro-card{
-  margin-bottom:4px !important;
 }
 
 /* ================= GRID ================= */
