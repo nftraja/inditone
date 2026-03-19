@@ -1,0 +1,2121 @@
+{
+"id":1,
+"name":"Netflix",
+"category":"movies",
+"description":"Global streaming platform offering movies, original films and entertainment content across multiple languages and regions worldwide.",
+"url":"https://www.netflix.com"
+},
+{
+"id":2,
+"name":"Amazon Prime Video",
+"category":"movies",
+"description":"Popular OTT platform providing movies, series and exclusive content with strong global and Indian entertainment catalog.",
+"url":"https://www.primevideo.com"
+},
+{
+"id":3,
+"name":"Disney+ Hotstar",
+"category":"movies",
+"description":"Indian focused streaming platform offering movies, Disney content, Marvel films and regional cinema with sports integration.",
+"url":"https://www.hotstar.com"
+},
+{
+"id":4,
+"name":"ZEE5",
+"category":"movies",
+"description":"Indian OTT platform providing Bollywood, regional movies and original content across multiple Indian languages.",
+"url":"https://www.zee5.com"
+},
+{
+"id":5,
+"name":"Sony LIV",
+"category":"movies",
+"description":"Streaming platform offering movies, TV shows and exclusive Indian content including Sony network productions.",
+"url":"https://www.sonyliv.com"
+},
+{
+"id":6,
+"name":"MX Player",
+"category":"movies",
+"description":"Free streaming platform offering movies, web content and regional entertainment supported by ads.",
+"url":"https://www.mxplayer.in"
+},
+{
+"id":7,
+"name":"JioCinema",
+"category":"movies",
+"description":"Indian streaming service offering movies, shows and sports content with growing digital entertainment library.",
+"url":"https://www.jiocinema.com"
+},
+{
+"id":8,
+"name":"Apple TV+",
+"category":"movies",
+"description":"Premium streaming service offering original films and high quality global content with exclusive productions.",
+"url":"https://tv.apple.com"
+},
+{
+"id":9,
+"name":"HBO Max",
+"category":"movies",
+"description":"Global streaming platform featuring Warner Bros movies, HBO originals and premium entertainment content.",
+"url":"https://www.hbomax.com"
+},
+{
+"id":10,
+"name":"Paramount+",
+"category":"movies",
+"description":"Streaming service offering movies, shows and exclusive content from Paramount studios and global media.",
+"url":"https://www.paramountplus.com"
+},
+
+{
+"id":11,
+"name":"Netflix Series",
+"category":"webseries",
+"description":"Dedicated section of Netflix focusing on global web series, original shows and trending episodic content.",
+"url":"https://www.netflix.com"
+},
+{
+"id":12,
+"name":"Amazon Prime Series",
+"category":"webseries",
+"description":"Prime Video section offering web series including originals, international shows and Indian content.",
+"url":"https://www.primevideo.com"
+},
+{
+"id":13,
+"name":"ALTBalaji",
+"category":"webseries",
+"description":"Indian web series platform offering original shows, drama series and regional digital content.",
+"url":"https://www.altbalaji.com"
+},
+{
+"id":14,
+"name":"Voot",
+"category":"webseries",
+"description":"Streaming platform offering Indian shows, web series and content from Viacom18 network.",
+"url":"https://www.voot.com"
+},
+{
+"id":15,
+"name":"ZEE5 Series",
+"category":"webseries",
+"description":"ZEE5 web series section offering original shows and regional storytelling content.",
+"url":"https://www.zee5.com"
+},
+{
+"id":16,
+"name":"Sony LIV Originals",
+"category":"webseries",
+"description":"Sony LIV section featuring original web series and exclusive digital content.",
+"url":"https://www.sonyliv.com"
+},
+{
+"id":17,
+"name":"Apple TV Series",
+"category":"webseries",
+"description":"Apple TV+ series platform offering high quality original episodic content globally.",
+"url":"https://tv.apple.com"
+},
+{
+"id":18,
+"name":"Disney+ Originals",
+"category":"webseries",
+"description":"Streaming platform offering Marvel, Star Wars and Disney original web series content.",
+"url":"https://www.hotstar.com"
+},
+{
+"id":19,
+"name":"Hulu",
+"category":"webseries",
+"description":"US based streaming platform offering web series, TV shows and original content.",
+"url":"https://www.hulu.com"
+},
+{
+"id":20,
+"name":"Peacock",
+"category":"webseries",
+"description":"NBC streaming service offering series, TV shows and exclusive digital content.",
+"url":"https://www.peacocktv.com"
+},
+
+{
+"id":21,
+"name":"Spotify",
+"category":"music",
+"description":"Global music streaming platform offering songs, playlists and podcasts across all genres and languages.",
+"url":"https://www.spotify.com"
+},
+{
+"id":22,
+"name":"YouTube Music",
+"category":"music",
+"description":"Music streaming platform integrated with YouTube offering songs, videos and live performances.",
+"url":"https://music.youtube.com"
+},
+{
+"id":23,
+"name":"JioSaavn",
+"category":"music",
+"description":"Indian music streaming platform offering Bollywood, regional and international music.",
+"url":"https://www.jiosaavn.com"
+},
+{
+"id":24,
+"name":"Gaana",
+"category":"music",
+"description":"Popular Indian music app offering songs, playlists and radio across multiple languages.",
+"url":"https://gaana.com"
+},
+{
+"id":25,
+"name":"Wynk Music",
+"category":"music",
+"description":"Airtel music streaming platform offering songs, playlists and offline listening features.",
+"url":"https://wynk.in"
+},
+{
+"id":26,
+"name":"Apple Music",
+"category":"music",
+"description":"Premium music streaming service offering high quality audio and curated playlists globally.",
+"url":"https://music.apple.com"
+},
+{
+"id":27,
+"name":"Amazon Music",
+"category":"music",
+"description":"Music streaming platform offering songs, playlists and Alexa integrated music experience.",
+"url":"https://music.amazon.com"
+},
+{
+"id":28,
+"name":"SoundCloud",
+"category":"music",
+"description":"Audio streaming platform for independent artists, remixes and global music discovery.",
+"url":"https://soundcloud.com"
+},
+{
+"id":29,
+"name":"Pandora",
+"category":"music",
+"description":"Music streaming and radio platform offering personalized listening experiences.",
+"url":"https://www.pandora.com"
+},
+{
+"id":30,
+"name":"Tidal",
+"category":"music",
+"description":"High fidelity music streaming platform offering premium audio quality and exclusive content.",
+"url":"https://tidal.com"
+},
+{
+"id":31,
+"name":"JioCinema Sports",
+"category":"sports",
+"description":"Indian streaming platform offering live cricket, IPL and other sports events with free and premium viewing options.",
+"url":"https://www.jiocinema.com"
+},
+{
+"id":32,
+"name":"Disney+ Hotstar Sports",
+"category":"sports",
+"description":"Major sports streaming platform in India offering cricket, football and international tournaments.",
+"url":"https://www.hotstar.com"
+},
+{
+"id":33,
+"name":"Sony LIV Sports",
+"category":"sports",
+"description":"Streaming service providing football leagues, WWE and global sports content with live coverage.",
+"url":"https://www.sonyliv.com"
+},
+{
+"id":34,
+"name":"ESPN",
+"category":"sports",
+"description":"Global sports network offering live scores, streaming content and sports news coverage worldwide.",
+"url":"https://www.espn.com"
+},
+{
+"id":35,
+"name":"FanCode",
+"category":"sports",
+"description":"Indian sports streaming platform offering live matches, highlights and niche sports content.",
+"url":"https://www.fancode.com"
+},
+{
+"id":36,
+"name":"DAZN",
+"category":"sports",
+"description":"Global sports streaming platform focused on boxing, football and premium live sports content.",
+"url":"https://www.dazn.com"
+},
+{
+"id":37,
+"name":"NBC Sports",
+"category":"sports",
+"description":"Sports platform offering live streaming, highlights and coverage of major sporting events.",
+"url":"https://www.nbcsports.com"
+},
+{
+"id":38,
+"name":"CBS Sports",
+"category":"sports",
+"description":"Streaming service providing live sports events, scores and analysis across multiple leagues.",
+"url":"https://www.cbssports.com"
+},
+{
+"id":39,
+"name":"Eurosport",
+"category":"sports",
+"description":"European sports network offering live events, cycling, tennis and Olympic sports coverage.",
+"url":"https://www.eurosport.com"
+},
+{
+"id":40,
+"name":"Sky Sports",
+"category":"sports",
+"description":"UK based sports streaming service offering football, cricket and live sports coverage.",
+"url":"https://www.skysports.com"
+},
+
+{
+"id":41,
+"name":"JioTV",
+"category":"livetv",
+"description":"Indian live TV streaming app offering hundreds of channels including news, entertainment and sports.",
+"url":"https://www.jiotv.com"
+},
+{
+"id":42,
+"name":"Airtel Xstream",
+"category":"livetv",
+"description":"Live TV and OTT aggregation platform offering channels, movies and streaming content.",
+"url":"https://www.airtelxstream.in"
+},
+{
+"id":43,
+"name":"Tata Play",
+"category":"livetv",
+"description":"DTH and streaming platform offering live TV channels, shows and digital entertainment content.",
+"url":"https://www.tataplay.com"
+},
+{
+"id":44,
+"name":"YuppTV",
+"category":"livetv",
+"description":"Global IPTV platform offering Indian live TV channels and regional content worldwide.",
+"url":"https://www.yupptv.com"
+},
+{
+"id":45,
+"name":"Sling TV",
+"category":"livetv",
+"description":"US based live TV streaming service offering flexible channel packages and on demand content.",
+"url":"https://www.sling.com"
+},
+{
+"id":46,
+"name":"YouTube TV",
+"category":"livetv",
+"description":"Live TV streaming platform offering channels, DVR and on demand content globally.",
+"url":"https://tv.youtube.com"
+},
+{
+"id":47,
+"name":"Hulu Live TV",
+"category":"livetv",
+"description":"Streaming service combining live TV channels with Hulu's on demand content library.",
+"url":"https://www.hulu.com/live-tv"
+},
+{
+"id":48,
+"name":"Pluto TV",
+"category":"livetv",
+"description":"Free streaming service offering live channels and on demand content supported by ads.",
+"url":"https://pluto.tv"
+},
+{
+"id":49,
+"name":"Xumo",
+"category":"livetv",
+"description":"Free live TV streaming platform offering channels and entertainment content globally.",
+"url":"https://www.xumo.tv"
+},
+{
+"id":50,
+"name":"Redbox Live TV",
+"category":"livetv",
+"description":"Free live TV streaming service offering news, sports and entertainment channels.",
+"url":"https://www.redbox.com/live-tv"
+},
+
+{
+"id":51,
+"name":"YouTube",
+"category":"shortvideo",
+"description":"Global video platform offering short videos, reels, content creation and entertainment across all categories.",
+"url":"https://www.youtube.com"
+},
+{
+"id":52,
+"name":"Instagram Reels",
+"category":"shortvideo",
+"description":"Short video feature within Instagram offering trending reels, entertainment and creative content.",
+"url":"https://www.instagram.com"
+},
+{
+"id":53,
+"name":"TikTok",
+"category":"shortvideo",
+"description":"Global short video platform offering creative content, trends and entertainment videos.",
+"url":"https://www.tiktok.com"
+},
+{
+"id":54,
+"name":"Snapchat Spotlight",
+"category":"shortvideo",
+"description":"Short video content platform within Snapchat offering trending clips and user generated content.",
+"url":"https://www.snapchat.com"
+},
+{
+"id":55,
+"name":"Moj",
+"category":"shortvideo",
+"description":"Indian short video platform offering entertainment content, reels and creative videos.",
+"url":"https://mojapp.in"
+},
+{
+"id":56,
+"name":"Josh",
+"category":"shortvideo",
+"description":"Popular Indian short video platform offering regional content and viral entertainment videos.",
+"url":"https://www.joshapp.com"
+},
+{
+"id":57,
+"name":"MX TakaTak",
+"category":"shortvideo",
+"description":"Short video platform offering creative content and entertainment videos for Indian audiences.",
+"url":"https://www.mxplayer.in"
+},
+{
+"id":58,
+"name":"Triller",
+"category":"shortvideo",
+"description":"Music focused short video platform offering creative video editing and social sharing features.",
+"url":"https://triller.co"
+},
+{
+"id":59,
+"name":"Likee",
+"category":"shortvideo",
+"description":"Short video platform offering effects, filters and entertainment content globally.",
+"url":"https://likee.video"
+},
+{
+"id":60,
+"name":"Roposo",
+"category":"shortvideo",
+"description":"Indian short video app offering regional content and entertainment videos across categories.",
+"url":"https://www.roposo.com"
+},
+{
+"id":61,
+"name":"Spotify Podcasts",
+"category":"podcasts",
+"description":"Podcast streaming section within Spotify offering global shows, interviews and audio storytelling across categories.",
+"url":"https://www.spotify.com"
+},
+{
+"id":62,
+"name":"Apple Podcasts",
+"category":"podcasts",
+"description":"Podcast platform offering a wide collection of shows, series and audio content across genres worldwide.",
+"url":"https://podcasts.apple.com"
+},
+{
+"id":63,
+"name":"Google Podcasts",
+"category":"podcasts",
+"description":"Podcast streaming service offering curated shows and personalized listening experience.",
+"url":"https://podcasts.google.com"
+},
+{
+"id":64,
+"name":"Audible",
+"category":"podcasts",
+"description":"Audio platform offering audiobooks, podcasts and premium storytelling content globally.",
+"url":"https://www.audible.com"
+},
+{
+"id":65,
+"name":"Pocket Casts",
+"category":"podcasts",
+"description":"Podcast app offering powerful playback features and curated podcast discovery.",
+"url":"https://www.pocketcasts.com"
+},
+{
+"id":66,
+"name":"Castbox",
+"category":"podcasts",
+"description":"Podcast platform offering a wide collection of audio shows, radio and spoken content.",
+"url":"https://castbox.fm"
+},
+{
+"id":67,
+"name":"Stitcher",
+"category":"podcasts",
+"description":"Podcast streaming service offering news, entertainment and storytelling audio content.",
+"url":"https://www.stitcher.com"
+},
+{
+"id":68,
+"name":"TuneIn",
+"category":"podcasts",
+"description":"Audio streaming platform offering podcasts, live radio and global audio content.",
+"url":"https://tunein.com"
+},
+{
+"id":69,
+"name":"iHeartRadio",
+"category":"podcasts",
+"description":"Streaming platform offering podcasts, live radio stations and curated audio content.",
+"url":"https://www.iheart.com"
+},
+{
+"id":70,
+"name":"Overcast",
+"category":"podcasts",
+"description":"Podcast app offering smart features for audio listening and discovery.",
+"url":"https://overcast.fm"
+},
+
+{
+"id":71,
+"name":"YouTube Movies",
+"category":"movies",
+"description":"Video platform offering movie rentals, purchases and free content with ads across genres.",
+"url":"https://www.youtube.com/movies"
+},
+{
+"id":72,
+"name":"Google TV",
+"category":"movies",
+"description":"Content platform offering movies and shows for rent or purchase across devices.",
+"url":"https://tv.google"
+},
+{
+"id":73,
+"name":"Vudu",
+"category":"movies",
+"description":"Streaming service offering movies for rent or purchase with high quality playback.",
+"url":"https://www.vudu.com"
+},
+{
+"id":74,
+"name":"Rakuten TV",
+"category":"movies",
+"description":"European streaming platform offering movies, rentals and free ad supported content.",
+"url":"https://www.rakuten.tv"
+},
+{
+"id":75,
+"name":"Eros Now",
+"category":"movies",
+"description":"Indian streaming platform offering Bollywood movies and regional content globally.",
+"url":"https://erosnow.com"
+},
+{
+"id":76,
+"name":"Hungama Play",
+"category":"movies",
+"description":"Indian OTT platform offering movies, music videos and entertainment content.",
+"url":"https://www.hungama.com"
+},
+{
+"id":77,
+"name":"Sun NXT",
+"category":"movies",
+"description":"South Indian streaming platform offering movies and TV shows in regional languages.",
+"url":"https://www.sunnxt.com"
+},
+{
+"id":78,
+"name":"Hoichoi",
+"category":"movies",
+"description":"Bengali streaming platform offering movies and original content.",
+"url":"https://www.hoichoi.tv"
+},
+{
+"id":79,
+"name":"Discovery+",
+"category":"movies",
+"description":"Streaming platform offering documentaries, reality shows and factual entertainment content.",
+"url":"https://www.discoveryplus.com"
+},
+{
+"id":80,
+"name":"CuriosityStream",
+"category":"movies",
+"description":"Streaming service offering educational documentaries and science based content.",
+"url":"https://curiositystream.com"
+},
+
+{
+"id":81,
+"name":"Crunchyroll",
+"category":"webseries",
+"description":"Anime streaming platform offering Japanese series, shows and global anime content.",
+"url":"https://www.crunchyroll.com"
+},
+{
+"id":82,
+"name":"Funimation",
+"category":"webseries",
+"description":"Anime streaming service offering dubbed and subbed anime series globally.",
+"url":"https://www.funimation.com"
+},
+{
+"id":83,
+"name":"WeTV",
+"category":"webseries",
+"description":"Asian streaming platform offering web series and entertainment content.",
+"url":"https://wetv.vip"
+},
+{
+"id":84,
+"name":"iQIYI",
+"category":"webseries",
+"description":"Chinese streaming platform offering series, shows and digital entertainment content.",
+"url":"https://www.iq.com"
+},
+{
+"id":85,
+"name":"Viki",
+"category":"webseries",
+"description":"Streaming platform offering Korean dramas and Asian web series with subtitles.",
+"url":"https://www.viki.com"
+},
+{
+"id":86,
+"name":"MX Originals",
+"category":"webseries",
+"description":"MX Player section offering Indian web series and digital shows.",
+"url":"https://www.mxplayer.in"
+},
+{
+"id":87,
+"name":"JioCinema Series",
+"category":"webseries",
+"description":"Streaming platform offering Indian web series and exclusive digital shows.",
+"url":"https://www.jiocinema.com"
+},
+{
+"id":88,
+"name":"BBC iPlayer",
+"category":"webseries",
+"description":"UK streaming service offering TV shows, series and digital entertainment.",
+"url":"https://www.bbc.co.uk/iplayer"
+},
+{
+"id":89,
+"name":"All4",
+"category":"webseries",
+"description":"UK streaming platform offering TV shows, web series and on demand content.",
+"url":"https://www.channel4.com"
+},
+{
+"id":90,
+"name":"ITVX",
+"category":"webseries",
+"description":"Streaming platform offering British TV shows and digital entertainment content.",
+"url":"https://www.itv.com"
+},
+{
+"id":91,
+"name":"Shazam",
+"category":"music",
+"description":"Music discovery app that identifies songs instantly and connects users to streaming platforms for full listening experience.",
+"url":"https://www.shazam.com"
+},
+{
+"id":92,
+"name":"Deezer",
+"category":"music",
+"description":"Global music streaming service offering songs, playlists and personalized recommendations across genres.",
+"url":"https://www.deezer.com"
+},
+{
+"id":93,
+"name":"Boomplay",
+"category":"music",
+"description":"Music streaming platform popular in emerging markets offering songs and playlists across genres.",
+"url":"https://www.boomplay.com"
+},
+{
+"id":94,
+"name":"Audiomack",
+"category":"music",
+"description":"Music streaming platform focusing on emerging artists and free music discovery.",
+"url":"https://audiomack.com"
+},
+{
+"id":95,
+"name":"Napster",
+"category":"music",
+"description":"Music streaming service offering a wide catalog of songs and curated playlists.",
+"url":"https://www.napster.com"
+},
+{
+"id":96,
+"name":"Jango",
+"category":"music",
+"description":"Free internet radio platform offering personalized music stations without subscription.",
+"url":"https://www.jango.com"
+},
+{
+"id":97,
+"name":"LiveOne",
+"category":"music",
+"description":"Streaming platform offering music, live events and entertainment audio content.",
+"url":"https://www.liveone.com"
+},
+{
+"id":98,
+"name":"ReverbNation",
+"category":"music",
+"description":"Music platform helping independent artists distribute and promote their music globally.",
+"url":"https://www.reverbnation.com"
+},
+{
+"id":99,
+"name":"Bandcamp",
+"category":"music",
+"description":"Platform allowing artists to sell music directly to fans and offer independent music content.",
+"url":"https://bandcamp.com"
+},
+{
+"id":100,
+"name":"Mixcloud",
+"category":"music",
+"description":"Audio streaming platform focused on DJ mixes, radio shows and podcasts.",
+"url":"https://www.mixcloud.com"
+},
+
+{
+"id":101,
+"name":"FIFA+",
+"category":"sports",
+"description":"Official FIFA streaming platform offering football matches, documentaries and global sports content.",
+"url":"https://www.fifa.com/fifaplus"
+},
+{
+"id":102,
+"name":"ICC TV",
+"category":"sports",
+"description":"Cricket streaming platform offering highlights, matches and global cricket content.",
+"url":"https://www.icc.tv"
+},
+{
+"id":103,
+"name":"NBA League Pass",
+"category":"sports",
+"description":"Basketball streaming service offering live NBA games, replays and exclusive content.",
+"url":"https://www.nba.com"
+},
+{
+"id":104,
+"name":"NFL Game Pass",
+"category":"sports",
+"description":"American football streaming service offering live games and on demand content.",
+"url":"https://www.nfl.com"
+},
+{
+"id":105,
+"name":"MLB TV",
+"category":"sports",
+"description":"Baseball streaming platform offering live MLB games and highlights.",
+"url":"https://www.mlb.com"
+},
+{
+"id":106,
+"name":"LaLiga Sports TV",
+"category":"sports",
+"description":"Streaming service offering Spanish sports events and football content.",
+"url":"https://www.laligasportstv.com"
+},
+{
+"id":107,
+"name":"Olympics Channel",
+"category":"sports",
+"description":"Streaming platform offering Olympic sports content, documentaries and highlights.",
+"url":"https://olympics.com"
+},
+{
+"id":108,
+"name":"Red Bull TV",
+"category":"sports",
+"description":"Streaming platform offering extreme sports, events and adventure content.",
+"url":"https://www.redbull.com"
+},
+{
+"id":109,
+"name":"Willow TV",
+"category":"sports",
+"description":"Cricket streaming platform offering live matches and coverage for international cricket.",
+"url":"https://www.willow.tv"
+},
+{
+"id":110,
+"name":"Fox Sports",
+"category":"sports",
+"description":"Sports network offering live streaming, highlights and sports news globally.",
+"url":"https://www.foxsports.com"
+},
+
+{
+"id":111,
+"name":"DistroTV",
+"category":"livetv",
+"description":"Free streaming platform offering live TV channels and on demand content across genres.",
+"url":"https://www.distro.tv"
+},
+{
+"id":112,
+"name":"Plex TV",
+"category":"livetv",
+"description":"Streaming platform offering live TV and free movies with ad supported content.",
+"url":"https://www.plex.tv"
+},
+{
+"id":113,
+"name":"Samsung TV Plus",
+"category":"livetv",
+"description":"Free live TV streaming service available on Samsung devices offering multiple channels.",
+"url":"https://www.samsungtvplus.com"
+},
+{
+"id":114,
+"name":"LG Channels",
+"category":"livetv",
+"description":"Smart TV based live channel service offering free streaming content.",
+"url":"https://www.lgchannels.com"
+},
+{
+"id":115,
+"name":"Rakuten TV Live",
+"category":"livetv",
+"description":"Live TV streaming section of Rakuten offering free ad supported channels.",
+"url":"https://www.rakuten.tv"
+},
+{
+"id":116,
+"name":"Freevee",
+"category":"livetv",
+"description":"Amazon free streaming platform offering live channels and movies with ads.",
+"url":"https://www.amazon.com/freevee"
+},
+{
+"id":117,
+"name":"PuhuTV",
+"category":"livetv",
+"description":"Turkish streaming platform offering live TV and on demand content.",
+"url":"https://puhutv.com"
+},
+{
+"id":118,
+"name":"Zattoo",
+"category":"livetv",
+"description":"European live TV streaming service offering channels and digital content.",
+"url":"https://zattoo.com"
+},
+{
+"id":119,
+"name":"TVPlayer",
+"category":"livetv",
+"description":"Live TV streaming platform offering UK channels and on demand content.",
+"url":"https://tvplayer.com"
+},
+{
+"id":120,
+"name":"NOW TV",
+"category":"livetv",
+"description":"Streaming service offering live TV channels, movies and sports content.",
+"url":"https://www.nowtv.com"
+},
+{
+"id":121,
+"name":"ShareChat Moj Shorts",
+"category":"shortvideo",
+"description":"Indian short video platform offering trending content, reels and regional entertainment experiences for users.",
+"url":"https://mojapp.in"
+},
+{
+"id":122,
+"name":"Chingari",
+"category":"shortvideo",
+"description":"Indian short video platform offering creative content, reels and social engagement features.",
+"url":"https://chingari.io"
+},
+{
+"id":123,
+"name":"Mitron",
+"category":"shortvideo",
+"description":"Short video app offering Indian content, entertainment clips and user generated videos.",
+"url":"https://mitron.tv"
+},
+{
+"id":124,
+"name":"Firework",
+"category":"shortvideo",
+"description":"Global short video platform offering premium video experiences and creator driven content.",
+"url":"https://firework.tv"
+},
+{
+"id":125,
+"name":"Dubsmash",
+"category":"shortvideo",
+"description":"Short video creation app offering lip sync and creative video tools for entertainment content.",
+"url":"https://www.dubsmash.com"
+},
+{
+"id":126,
+"name":"Clash App",
+"category":"shortvideo",
+"description":"Short video platform supporting creators with monetization and engaging video content.",
+"url":"https://clashapp.co"
+},
+{
+"id":127,
+"name":"Vigo Video",
+"category":"shortvideo",
+"description":"Short video platform offering creative video sharing and entertainment content.",
+"url":"https://vigovideo.net"
+},
+{
+"id":128,
+"name":"Zili",
+"category":"shortvideo",
+"description":"Short video app offering trending videos, entertainment and user generated content.",
+"url":"https://ziliapp.com"
+},
+{
+"id":129,
+"name":"Snack Video",
+"category":"shortvideo",
+"description":"Short video platform offering viral content, reels and entertainment videos globally.",
+"url":"https://www.snackvideo.com"
+},
+{
+"id":130,
+"name":"Funimate",
+"category":"shortvideo",
+"description":"Video editing and short video platform offering creative tools for content creation.",
+"url":"https://www.funimate.com"
+},
+
+{
+"id":131,
+"name":"Podbean",
+"category":"podcasts",
+"description":"Podcast hosting and streaming platform offering a wide range of audio content and creator tools.",
+"url":"https://www.podbean.com"
+},
+{
+"id":132,
+"name":"Anchor",
+"category":"podcasts",
+"description":"Podcast creation and distribution platform enabling users to record and publish audio content.",
+"url":"https://anchor.fm"
+},
+{
+"id":133,
+"name":"Acast",
+"category":"podcasts",
+"description":"Podcast platform offering hosting, distribution and monetization for creators globally.",
+"url":"https://www.acast.com"
+},
+{
+"id":134,
+"name":"Player FM",
+"category":"podcasts",
+"description":"Podcast discovery platform offering curated playlists and audio content across topics.",
+"url":"https://player.fm"
+},
+{
+"id":135,
+"name":"Podcast Addict",
+"category":"podcasts",
+"description":"Podcast app offering subscriptions, downloads and playback features for audio content.",
+"url":"https://podcastaddict.com"
+},
+{
+"id":136,
+"name":"Castro",
+"category":"podcasts",
+"description":"Podcast player app offering smart queue management and listening experience.",
+"url":"https://castro.fm"
+},
+{
+"id":137,
+"name":"Breaker",
+"category":"podcasts",
+"description":"Social podcast platform enabling users to discover and share audio content.",
+"url":"https://www.breaker.audio"
+},
+{
+"id":138,
+"name":"RadioPublic",
+"category":"podcasts",
+"description":"Podcast platform supporting creators and offering curated audio content for listeners.",
+"url":"https://radiopublic.com"
+},
+{
+"id":139,
+"name":"Luminary",
+"category":"podcasts",
+"description":"Subscription based podcast platform offering exclusive premium audio shows.",
+"url":"https://luminarypodcasts.com"
+},
+{
+"id":140,
+"name":"Podchaser",
+"category":"podcasts",
+"description":"Podcast discovery platform offering reviews, ratings and recommendations for shows.",
+"url":"https://www.podchaser.com"
+},
+
+{
+"id":141,
+"name":"FilmRise",
+"category":"movies",
+"description":"Free streaming platform offering movies and TV shows with ad supported viewing experience.",
+"url":"https://www.filmrise.com"
+},
+{
+"id":142,
+"name":"Tubi",
+"category":"movies",
+"description":"Free streaming service offering movies and shows supported by advertisements globally.",
+"url":"https://tubitv.com"
+},
+{
+"id":143,
+"name":"Popcornflix",
+"category":"movies",
+"description":"Ad supported streaming platform offering free movies across genres.",
+"url":"https://www.popcornflix.com"
+},
+{
+"id":144,
+"name":"Kanopy",
+"category":"movies",
+"description":"Streaming service offering films and documentaries through libraries and educational institutions.",
+"url":"https://www.kanopy.com"
+},
+{
+"id":145,
+"name":"Mubi",
+"category":"movies",
+"description":"Curated streaming platform offering handpicked movies and independent cinema.",
+"url":"https://mubi.com"
+},
+{
+"id":146,
+"name":"Filmzie",
+"category":"movies",
+"description":"Free streaming platform offering independent movies and global cinema content.",
+"url":"https://filmzie.com"
+},
+{
+"id":147,
+"name":"Yidio",
+"category":"movies",
+"description":"Streaming aggregator helping users find movies and shows across platforms.",
+"url":"https://www.yidio.com"
+},
+{
+"id":148,
+"name":"JustWatch",
+"category":"movies",
+"description":"Search engine for streaming services helping users discover where to watch movies online.",
+"url":"https://www.justwatch.com"
+},
+{
+"id":149,
+"name":"Reelgood",
+"category":"movies",
+"description":"Platform helping users track and discover movies and shows across streaming services.",
+"url":"https://reelgood.com"
+},
+{
+"id":150,
+"name":"WatchFree",
+"category":"movies",
+"description":"Free streaming platform offering movies and shows without subscription requirements.",
+"url":"https://watchfree.to"
+},
+{
+"id":151,
+"name":"Crunchyroll",
+"category":"anime",
+"description":"Global streaming platform offering anime series, movies and simulcasts from Japan with multilingual support.",
+"url":"https://www.crunchyroll.com"
+},
+{
+"id":152,
+"name":"Funimation",
+"category":"anime",
+"description":"Anime streaming platform offering dubbed and subbed content with a large anime library.",
+"url":"https://www.funimation.com"
+},
+{
+"id":153,
+"name":"Anime-Planet",
+"category":"anime",
+"description":"Anime discovery platform offering recommendations, reviews and streaming links for anime content.",
+"url":"https://www.anime-planet.com"
+},
+{
+"id":154,
+"name":"9anime",
+"category":"anime",
+"description":"Online anime streaming site offering a wide range of anime shows and movies.",
+"url":"https://9anime.to"
+},
+{
+"id":155,
+"name":"GoGoAnime",
+"category":"anime",
+"description":"Anime streaming platform offering free access to anime episodes and movies.",
+"url":"https://gogoanime.gg"
+},
+{
+"id":156,
+"name":"VRV",
+"category":"anime",
+"description":"Streaming platform offering anime, cartoons and geek culture content bundles.",
+"url":"https://vrv.co"
+},
+{
+"id":157,
+"name":"RetroCrush",
+"category":"anime",
+"description":"Anime streaming service focusing on classic and retro anime titles.",
+"url":"https://www.retrocrush.tv"
+},
+{
+"id":158,
+"name":"HIDIVE",
+"category":"anime",
+"description":"Anime streaming platform offering exclusive titles and simulcasts.",
+"url":"https://www.hidive.com"
+},
+{
+"id":159,
+"name":"Bilibili",
+"category":"anime",
+"description":"Asian streaming platform offering anime, gaming and entertainment content.",
+"url":"https://www.bilibili.tv"
+},
+{
+"id":160,
+"name":"AniList",
+"category":"anime",
+"description":"Anime tracking and discovery platform helping users manage watchlists and explore anime content.",
+"url":"https://anilist.co"
+},
+
+{
+"id":161,
+"name":"Twitch",
+"category":"gaming",
+"description":"Live streaming platform focused on gaming, esports and interactive entertainment content.",
+"url":"https://www.twitch.tv"
+},
+{
+"id":162,
+"name":"Facebook Gaming",
+"category":"gaming",
+"description":"Gaming streaming platform offering live gameplay, creators and community interaction.",
+"url":"https://www.facebook.com/gaming"
+},
+{
+"id":163,
+"name":"Trovo",
+"category":"gaming",
+"description":"Live streaming platform offering gaming streams and creator engagement features.",
+"url":"https://trovo.live"
+},
+{
+"id":164,
+"name":"DLive",
+"category":"gaming",
+"description":"Blockchain based live streaming platform focusing on gaming and content creators.",
+"url":"https://dlive.tv"
+},
+{
+"id":165,
+"name":"Steam",
+"category":"gaming",
+"description":"Digital distribution platform offering games, community features and gaming content.",
+"url":"https://store.steampowered.com"
+},
+{
+"id":166,
+"name":"Epic Games",
+"category":"gaming",
+"description":"Gaming platform offering free and paid games, game store and online services.",
+"url":"https://www.epicgames.com"
+},
+{
+"id":167,
+"name":"Miniclip",
+"category":"gaming",
+"description":"Online gaming platform offering browser based games and mobile games.",
+"url":"https://www.miniclip.com"
+},
+{
+"id":168,
+"name":"Kongregate",
+"category":"gaming",
+"description":"Browser gaming platform offering indie games and community features.",
+"url":"https://www.kongregate.com"
+},
+{
+"id":169,
+"name":"Armor Games",
+"category":"gaming",
+"description":"Online gaming platform offering free browser games and indie titles.",
+"url":"https://armorgames.com"
+},
+{
+"id":170,
+"name":"CrazyGames",
+"category":"gaming",
+"description":"Free online gaming platform offering browser games across genres.",
+"url":"https://www.crazygames.com"
+},
+
+{
+"id":171,
+"name":"TMDb",
+"category":"movies",
+"description":"Movie database offering detailed information about films, cast and production data globally.",
+"url":"https://www.themoviedb.org"
+},
+{
+"id":172,
+"name":"IMDb",
+"category":"movies",
+"description":"Global movie database offering ratings, reviews and film information.",
+"url":"https://www.imdb.com"
+},
+{
+"id":173,
+"name":"Letterboxd",
+"category":"movies",
+"description":"Social platform for movie lovers to track, review and discover films.",
+"url":"https://letterboxd.com"
+},
+{
+"id":174,
+"name":"FilmAffinity",
+"category":"movies",
+"description":"Movie recommendation platform offering ratings and personalized film suggestions.",
+"url":"https://www.filmaffinity.com"
+},
+{
+"id":175,
+"name":"Taste.io",
+"category":"movies",
+"description":"Movie recommendation platform using AI to suggest films based on preferences.",
+"url":"https://www.taste.io"
+},
+{
+"id":176,
+"name":"MovieLens",
+"category":"movies",
+"description":"Movie recommendation platform offering personalized suggestions based on ratings.",
+"url":"https://movielens.org"
+},
+{
+"id":177,
+"name":"AllMovie",
+"category":"movies",
+"description":"Movie database offering detailed information and reviews for films.",
+"url":"https://www.allmovie.com"
+},
+{
+"id":178,
+"name":"Flixster",
+"category":"movies",
+"description":"Movie discovery platform offering ratings and film information.",
+"url":"https://www.flixster.com"
+},
+{
+"id":179,
+"name":"CinemaBlend",
+"category":"movies",
+"description":"Entertainment website offering movie news, reviews and updates.",
+"url":"https://www.cinemablend.com"
+},
+{
+"id":180,
+"name":"Collider",
+"category":"movies",
+"description":"Entertainment news platform covering movies, TV shows and industry updates.",
+"url":"https://collider.com"
+},
+{
+"id":181,
+"name":"Netflix Tudum",
+"category":"webseries",
+"description":"Official Netflix companion platform offering updates, behind the scenes content and series insights.",
+"url":"https://www.netflix.com/tudum"
+},
+{
+"id":182,
+"name":"Hotstar Specials",
+"category":"webseries",
+"description":"Dedicated section for Disney+ Hotstar original web series and exclusive content.",
+"url":"https://www.hotstar.com"
+},
+{
+"id":183,
+"name":"Prime Video Originals",
+"category":"webseries",
+"description":"Amazon Prime Video section featuring exclusive web series and original shows.",
+"url":"https://www.primevideo.com"
+},
+{
+"id":184,
+"name":"SonyLIV Originals",
+"category":"webseries",
+"description":"Streaming platform offering Indian web series and exclusive digital content.",
+"url":"https://www.sonyliv.com"
+},
+{
+"id":185,
+"name":"ZEE5 Originals",
+"category":"webseries",
+"description":"Platform offering original web series, movies and regional digital content.",
+"url":"https://www.zee5.com"
+},
+{
+"id":186,
+"name":"Voot Select",
+"category":"webseries",
+"description":"Streaming service offering original shows and web series content.",
+"url":"https://www.voot.com"
+},
+{
+"id":187,
+"name":"MX Player Originals",
+"category":"webseries",
+"description":"Free streaming platform offering Indian web series and digital content.",
+"url":"https://www.mxplayer.in"
+},
+{
+"id":188,
+"name":"ALTBalaji",
+"category":"webseries",
+"description":"Subscription based platform offering Indian web series and original shows.",
+"url":"https://www.altbalaji.com"
+},
+{
+"id":189,
+"name":"Eros Now",
+"category":"webseries",
+"description":"Streaming platform offering Indian movies and original web series.",
+"url":"https://erosnow.com"
+},
+{
+"id":190,
+"name":"Hoichoi",
+"category":"webseries",
+"description":"Bengali streaming platform offering movies and web series content.",
+"url":"https://www.hoichoi.tv"
+},
+
+{
+"id":191,
+"name":"ScreenRant",
+"category":"entertainment-news",
+"description":"Entertainment website covering movies, TV shows, gaming and pop culture news.",
+"url":"https://screenrant.com"
+},
+{
+"id":192,
+"name":"Variety",
+"category":"entertainment-news",
+"description":"Global entertainment news platform covering film, TV and media industry updates.",
+"url":"https://variety.com"
+},
+{
+"id":193,
+"name":"Hollywood Reporter",
+"category":"entertainment-news",
+"description":"Entertainment industry news platform covering movies, TV and celebrity updates.",
+"url":"https://www.hollywoodreporter.com"
+},
+{
+"id":194,
+"name":"Deadline",
+"category":"entertainment-news",
+"description":"Breaking news platform focused on Hollywood, TV and entertainment industry.",
+"url":"https://deadline.com"
+},
+{
+"id":195,
+"name":"IGN",
+"category":"entertainment-news",
+"description":"Entertainment and gaming platform offering reviews, news and updates.",
+"url":"https://www.ign.com"
+},
+{
+"id":196,
+"name":"GamesRadar",
+"category":"entertainment-news",
+"description":"Platform covering gaming, movies and entertainment content.",
+"url":"https://www.gamesradar.com"
+},
+{
+"id":197,
+"name":"Polygon",
+"category":"entertainment-news",
+"description":"Entertainment platform covering games, movies and internet culture.",
+"url":"https://www.polygon.com"
+},
+{
+"id":198,
+"name":"Kotaku",
+"category":"entertainment-news",
+"description":"Gaming and entertainment blog offering news, reviews and opinions.",
+"url":"https://kotaku.com"
+},
+{
+"id":199,
+"name":"Eurogamer",
+"category":"entertainment-news",
+"description":"Gaming and entertainment news platform covering industry updates.",
+"url":"https://www.eurogamer.net"
+},
+{
+"id":200,
+"name":"Destructoid",
+"category":"entertainment-news",
+"description":"Gaming blog offering reviews, news and entertainment content.",
+"url":"https://www.destructoid.com"
+},
+
+{
+"id":201,
+"name":"Rotten Tomatoes",
+"category":"reviews",
+"description":"Movie and TV review aggregator offering critic scores and audience ratings.",
+"url":"https://www.rottentomatoes.com"
+},
+{
+"id":202,
+"name":"Metacritic",
+"category":"reviews",
+"description":"Review aggregation platform for movies, TV, games and music.",
+"url":"https://www.metacritic.com"
+},
+{
+"id":203,
+"name":"Common Sense Media",
+"category":"reviews",
+"description":"Platform offering reviews and ratings for movies and content suitable for families.",
+"url":"https://www.commonsensemedia.org"
+},
+{
+"id":204,
+"name":"Roger Ebert",
+"category":"reviews",
+"description":"Film review website offering critiques and insights on movies.",
+"url":"https://www.rogerebert.com"
+},
+{
+"id":205,
+"name":"Empire Online",
+"category":"reviews",
+"description":"Movie magazine website offering reviews, features and film news.",
+"url":"https://www.empireonline.com"
+},
+{
+"id":206,
+"name":"Film Companion",
+"category":"reviews",
+"description":"Indian platform offering movie reviews, interviews and entertainment analysis.",
+"url":"https://www.filmcompanion.in"
+},
+{
+"id":207,
+"name":"Firstpost Entertainment",
+"category":"reviews",
+"description":"Entertainment section offering reviews and news about movies and shows.",
+"url":"https://www.firstpost.com/entertainment"
+},
+{
+"id":208,
+"name":"Rediff Movies",
+"category":"reviews",
+"description":"Indian entertainment portal offering movie reviews and updates.",
+"url":"https://www.rediff.com/movies"
+},
+{
+"id":209,
+"name":"Cinema Express",
+"category":"reviews",
+"description":"Indian entertainment news and review platform for movies and web series.",
+"url":"https://www.cinemaexpress.com"
+},
+{
+"id":210,
+"name":"The Playlist",
+"category":"reviews",
+"description":"Film review and entertainment site covering movies, TV and culture.",
+"url":"https://theplaylist.net"
+},
+{
+"id":211,
+"name":"Soundtrap",
+"category":"music-tools",
+"description":"Online music studio by Spotify allowing users to create, record and collaborate on music projects.",
+"url":"https://www.soundtrap.com"
+},
+{
+"id":212,
+"name":"BandLab",
+"category":"music-tools",
+"description":"Free online music creation platform offering recording, editing and collaboration features.",
+"url":"https://www.bandlab.com"
+},
+{
+"id":213,
+"name":"Audiotool",
+"category":"music-tools",
+"description":"Cloud based music production studio offering tools for beat making and sound design.",
+"url":"https://www.audiotool.com"
+},
+{
+"id":214,
+"name":"Flat.io",
+"category":"music-tools",
+"description":"Music notation software for composing and sharing sheet music online.",
+"url":"https://flat.io"
+},
+{
+"id":215,
+"name":"Noteflight",
+"category":"music-tools",
+"description":"Online music notation tool for composing, editing and sharing musical scores.",
+"url":"https://www.noteflight.com"
+},
+{
+"id":216,
+"name":"GarageBand",
+"category":"music-tools",
+"description":"Music creation app by Apple offering tools for recording and producing music.",
+"url":"https://www.apple.com/mac/garageband"
+},
+{
+"id":217,
+"name":"Soundation",
+"category":"music-tools",
+"description":"Online music studio offering loops, virtual instruments and collaboration tools.",
+"url":"https://soundation.com"
+},
+{
+"id":218,
+"name":"Amped Studio",
+"category":"music-tools",
+"description":"Browser based digital audio workstation for music production and editing.",
+"url":"https://ampedstudio.com"
+},
+{
+"id":219,
+"name":"Splice",
+"category":"music-tools",
+"description":"Music production platform offering samples, plugins and collaboration tools.",
+"url":"https://splice.com"
+},
+{
+"id":220,
+"name":"LANDR",
+"category":"music-tools",
+"description":"AI powered music mastering platform offering distribution and production tools.",
+"url":"https://www.landr.com"
+},
+
+{
+"id":221,
+"name":"TuneIn",
+"category":"radio",
+"description":"Global radio streaming platform offering live radio stations, podcasts and music channels.",
+"url":"https://tunein.com"
+},
+{
+"id":222,
+"name":"iHeartRadio",
+"category":"radio",
+"description":"Radio streaming platform offering live stations, playlists and podcasts.",
+"url":"https://www.iheart.com"
+},
+{
+"id":223,
+"name":"Radio Garden",
+"category":"radio",
+"description":"Interactive platform allowing users to explore radio stations worldwide via map interface.",
+"url":"https://radio.garden"
+},
+{
+"id":224,
+"name":"AccuRadio",
+"category":"radio",
+"description":"Free online radio platform offering curated music channels across genres.",
+"url":"https://www.accuradio.com"
+},
+{
+"id":225,
+"name":"Simple Radio",
+"category":"radio",
+"description":"Radio streaming app offering access to thousands of global stations.",
+"url":"https://simple-radio.app"
+},
+{
+"id":226,
+"name":"Streema",
+"category":"radio",
+"description":"Platform offering access to online radio stations worldwide.",
+"url":"https://streema.com"
+},
+{
+"id":227,
+"name":"Online Radio Box",
+"category":"radio",
+"description":"Streaming service offering global radio stations with playlists and schedules.",
+"url":"https://onlineradiobox.com"
+},
+{
+"id":228,
+"name":"Radio.net",
+"category":"radio",
+"description":"Global radio streaming platform offering stations and podcasts.",
+"url":"https://www.radio.net"
+},
+{
+"id":229,
+"name":"myTuner Radio",
+"category":"radio",
+"description":"Online radio platform offering thousands of stations and podcasts.",
+"url":"https://mytuner-radio.com"
+},
+{
+"id":230,
+"name":"Live365",
+"category":"radio",
+"description":"Internet radio platform enabling users to create and stream their own stations.",
+"url":"https://live365.com"
+},
+
+{
+"id":231,
+"name":"Songkick",
+"category":"concerts",
+"description":"Platform helping users track concerts, live events and favorite artists globally.",
+"url":"https://www.songkick.com"
+},
+{
+"id":232,
+"name":"Bandsintown",
+"category":"concerts",
+"description":"Concert discovery platform offering tour dates and live music event tracking.",
+"url":"https://www.bandsintown.com"
+},
+{
+"id":233,
+"name":"Resident Advisor",
+"category":"concerts",
+"description":"Platform listing electronic music events, festivals and club nights worldwide.",
+"url":"https://ra.co"
+},
+{
+"id":234,
+"name":"Eventbrite Music",
+"category":"concerts",
+"description":"Event platform offering ticketing and discovery for music events and concerts.",
+"url":"https://www.eventbrite.com"
+},
+{
+"id":235,
+"name":"Ticketmaster",
+"category":"concerts",
+"description":"Global ticketing platform offering access to concerts, sports and entertainment events.",
+"url":"https://www.ticketmaster.com"
+},
+{
+"id":236,
+"name":"StubHub",
+"category":"concerts",
+"description":"Ticket resale marketplace for concerts, sports and entertainment events.",
+"url":"https://www.stubhub.com"
+},
+{
+"id":237,
+"name":"Live Nation",
+"category":"concerts",
+"description":"Live entertainment company offering concerts, tours and music events globally.",
+"url":"https://www.livenation.com"
+},
+{
+"id":238,
+"name":"Dice",
+"category":"concerts",
+"description":"Ticketing platform focused on live music events and concerts.",
+"url":"https://dice.fm"
+},
+{
+"id":239,
+"name":"Festicket",
+"category":"concerts",
+"description":"Festival booking platform offering tickets and travel packages for music festivals.",
+"url":"https://www.festicket.com"
+},
+{
+"id":240,
+"name":"See Tickets",
+"category":"concerts",
+"description":"Ticketing service offering access to concerts, festivals and events worldwide.",
+"url":"https://www.seetickets.com"
+},
+{
+"id":241,
+"name":"Fandom",
+"category":"fan-community",
+"description":"Global fan platform offering wikis, discussions and content around movies, series, games and pop culture.",
+"url":"https://www.fandom.com"
+},
+{
+"id":242,
+"name":"Reddit Entertainment",
+"category":"fan-community",
+"description":"Community driven platform with subreddits dedicated to movies, shows, music and entertainment discussions.",
+"url":"https://www.reddit.com"
+},
+{
+"id":243,
+"name":"Discord",
+"category":"fan-community",
+"description":"Community platform where fans join servers to discuss entertainment, gaming and media topics.",
+"url":"https://discord.com"
+},
+{
+"id":244,
+"name":"Amino Apps",
+"category":"fan-community",
+"description":"Community platform offering niche groups for fans of movies, anime and entertainment.",
+"url":"https://aminoapps.com"
+},
+{
+"id":245,
+"name":"Fanpop",
+"category":"fan-community",
+"description":"Fan community platform offering discussions, images and content around celebrities and shows.",
+"url":"https://www.fanpop.com"
+},
+{
+"id":246,
+"name":"MyAnimeList",
+"category":"fan-community",
+"description":"Anime and manga community offering reviews, ratings and user discussions.",
+"url":"https://myanimelist.net"
+},
+{
+"id":247,
+"name":"TV Time",
+"category":"fan-community",
+"description":"Tracking and community platform for TV shows and movies with user discussions.",
+"url":"https://www.tvtime.com"
+},
+{
+"id":248,
+"name":"Goodreads",
+"category":"fan-community",
+"description":"Book community platform offering reviews, ratings and discussions for readers.",
+"url":"https://www.goodreads.com"
+},
+{
+"id":249,
+"name":"RateYourMusic",
+"category":"fan-community",
+"description":"Music community platform offering ratings, reviews and discovery of albums.",
+"url":"https://rateyourmusic.com"
+},
+{
+"id":250,
+"name":"Last.fm",
+"category":"fan-community",
+"description":"Music tracking and recommendation platform offering listening insights and community features.",
+"url":"https://www.last.fm"
+},
+
+{
+"id":251,
+"name":"Genius",
+"category":"lyrics",
+"description":"Lyrics platform offering song meanings, annotations and music insights from artists and fans.",
+"url":"https://genius.com"
+},
+{
+"id":252,
+"name":"AZLyrics",
+"category":"lyrics",
+"description":"Lyrics website offering a vast collection of song lyrics across genres.",
+"url":"https://www.azlyrics.com"
+},
+{
+"id":253,
+"name":"Lyrics.com",
+"category":"lyrics",
+"description":"Comprehensive lyrics database offering song lyrics and artist information.",
+"url":"https://www.lyrics.com"
+},
+{
+"id":254,
+"name":"Musixmatch",
+"category":"lyrics",
+"description":"Lyrics platform offering synchronized lyrics and music discovery features.",
+"url":"https://www.musixmatch.com"
+},
+{
+"id":255,
+"name":"MetroLyrics",
+"category":"lyrics",
+"description":"Lyrics website offering song lyrics and music related content.",
+"url":"https://www.metrolyrics.com"
+},
+{
+"id":256,
+"name":"LyricsMode",
+"category":"lyrics",
+"description":"Lyrics platform offering song lyrics and meaning explanations.",
+"url":"https://www.lyricsmode.com"
+},
+{
+"id":257,
+"name":"SongLyrics",
+"category":"lyrics",
+"description":"Lyrics database offering song lyrics, albums and artist information.",
+"url":"https://www.songlyrics.com"
+},
+{
+"id":258,
+"name":"LyricsFreak",
+"category":"lyrics",
+"description":"Lyrics website offering song lyrics and artist discographies.",
+"url":"https://www.lyricsfreak.com"
+},
+{
+"id":259,
+"name":"LetsSingIt",
+"category":"lyrics",
+"description":"Lyrics community platform offering song lyrics and translations.",
+"url":"https://www.letssingit.com"
+},
+{
+"id":260,
+"name":"LyricsTranslate",
+"category":"lyrics",
+"description":"Platform offering translated song lyrics in multiple languages.",
+"url":"https://lyricstranslate.com"
+},
+
+{
+"id":261,
+"name":"Apple Trailers",
+"category":"trailers",
+"description":"Platform offering official movie trailers, teasers and previews in high quality.",
+"url":"https://trailers.apple.com"
+},
+{
+"id":262,
+"name":"YouTube Trailers",
+"category":"trailers",
+"description":"Official movie and series trailers available through YouTube channels.",
+"url":"https://www.youtube.com"
+},
+{
+"id":263,
+"name":"IMDb Trailers",
+"category":"trailers",
+"description":"Movie database offering trailers, clips and promotional videos.",
+"url":"https://www.imdb.com"
+},
+{
+"id":264,
+"name":"FilmStarts",
+"category":"trailers",
+"description":"European platform offering movie trailers, news and reviews.",
+"url":"https://www.filmstarts.de"
+},
+{
+"id":265,
+"name":"ComingSoon",
+"category":"trailers",
+"description":"Entertainment site offering trailers, movie news and updates.",
+"url":"https://www.comingsoon.net"
+},
+{
+"id":266,
+"name":"JoBlo",
+"category":"trailers",
+"description":"Movie website offering trailers, news and entertainment content.",
+"url":"https://www.joblo.com"
+},
+{
+"id":267,
+"name":"TrailerAddict",
+"category":"trailers",
+"description":"Platform offering a large collection of movie trailers and clips.",
+"url":"https://www.traileraddict.com"
+},
+{
+"id":268,
+"name":"MovieWeb",
+"category":"trailers",
+"description":"Entertainment site offering trailers, movie news and updates.",
+"url":"https://movieweb.com"
+},
+{
+"id":269,
+"name":"ScreenCrush",
+"category":"trailers",
+"description":"Platform offering trailers, reviews and pop culture content.",
+"url":"https://screencrush.com"
+},
+{
+"id":270,
+"name":"Collider Trailers",
+"category":"trailers",
+"description":"Trailer section of Collider offering latest previews and clips.",
+"url":"https://collider.com"
+},
+{
+"id":271,
+"name":"Oscars",
+"category":"awards",
+"description":"Official Academy Awards platform showcasing global film awards, nominees and winners in cinema.",
+"url":"https://www.oscars.org"
+},
+{
+"id":272,
+"name":"Golden Globes",
+"category":"awards",
+"description":"Awards platform recognizing excellence in film and television internationally.",
+"url":"https://www.goldenglobes.com"
+},
+{
+"id":273,
+"name":"BAFTA",
+"category":"awards",
+"description":"British Academy awards platform covering film, television and entertainment achievements.",
+"url":"https://www.bafta.org"
+},
+{
+"id":274,
+"name":"Filmfare",
+"category":"awards",
+"description":"Indian film awards platform celebrating excellence in Bollywood and regional cinema.",
+"url":"https://www.filmfare.com"
+},
+{
+"id":275,
+"name":"National Film Awards India",
+"category":"awards",
+"description":"Government awards recognizing excellence in Indian cinema across languages.",
+"url":"https://dff.nic.in"
+},
+{
+"id":276,
+"name":"Cannes Film Festival",
+"category":"awards",
+"description":"International film festival showcasing global cinema and prestigious awards.",
+"url":"https://www.festival-cannes.com"
+},
+{
+"id":277,
+"name":"Berlin Film Festival",
+"category":"awards",
+"description":"International film festival platform featuring films and awards from global cinema.",
+"url":"https://www.berlinale.de"
+},
+{
+"id":278,
+"name":"Venice Film Festival",
+"category":"awards",
+"description":"One of the oldest film festivals showcasing global cinema and awards.",
+"url":"https://www.labiennale.org"
+},
+{
+"id":279,
+"name":"Emmys",
+"category":"awards",
+"description":"Awards platform recognizing excellence in television programming worldwide.",
+"url":"https://www.emmys.com"
+},
+{
+"id":280,
+"name":"Grammy Awards",
+"category":"awards",
+"description":"Music awards platform recognizing global achievements in the music industry.",
+"url":"https://www.grammy.com"
+},
+
+{
+"id":281,
+"name":"BookMyShow",
+"category":"tickets",
+"description":"Ticket booking platform offering movies, events, concerts and entertainment experiences.",
+"url":"https://in.bookmyshow.com"
+},
+{
+"id":282,
+"name":"Fandango",
+"category":"tickets",
+"description":"Movie ticket booking platform offering showtimes, trailers and cinema listings.",
+"url":"https://www.fandango.com"
+},
+{
+"id":283,
+"name":"Atom Tickets",
+"category":"tickets",
+"description":"Movie ticket booking platform offering easy booking and social planning features.",
+"url":"https://www.atomtickets.com"
+},
+{
+"id":284,
+"name":"Cineworld",
+"category":"tickets",
+"description":"Cinema chain platform offering movie tickets and showtimes globally.",
+"url":"https://www.cineworld.com"
+},
+{
+"id":285,
+"name":"AMC Theatres",
+"category":"tickets",
+"description":"Cinema platform offering movie tickets, memberships and entertainment experiences.",
+"url":"https://www.amctheatres.com"
+},
+{
+"id":286,
+"name":"Cinemark",
+"category":"tickets",
+"description":"Movie theatre chain offering ticket booking and showtime listings.",
+"url":"https://www.cinemark.com"
+},
+{
+"id":287,
+"name":"INOX Movies",
+"category":"tickets",
+"description":"Indian multiplex platform offering movie ticket booking and cinema experiences.",
+"url":"https://www.inoxmovies.com"
+},
+{
+"id":288,
+"name":"PVR Cinemas",
+"category":"tickets",
+"description":"Leading Indian cinema chain offering movie ticket booking and entertainment services.",
+"url":"https://www.pvrcinemas.com"
+},
+{
+"id":289,
+"name":"TicketNew",
+"category":"tickets",
+"description":"Online ticket booking platform for movies and events across India.",
+"url":"https://www.ticketnew.com"
+},
+{
+"id":290,
+"name":"Paytm Movies",
+"category":"tickets",
+"description":"Movie ticket booking service integrated with Paytm offering easy reservations.",
+"url":"https://paytm.com/movies"
+},
+
+{
+"id":291,
+"name":"BuzzFeed Entertainment",
+"category":"entertainment",
+"description":"Entertainment platform offering viral content, quizzes and pop culture media.",
+"url":"https://www.buzzfeed.com"
+},
+{
+"id":292,
+"name":"9GAG",
+"category":"entertainment",
+"description":"Entertainment platform offering memes, viral content and internet culture posts.",
+"url":"https://9gag.com"
+},
+{
+"id":293,
+"name":"Bored Panda",
+"category":"entertainment",
+"description":"Content platform offering creative, artistic and entertaining stories and posts.",
+"url":"https://www.boredpanda.com"
+},
+{
+"id":294,
+"name":"Diply",
+"category":"entertainment",
+"description":"Entertainment platform offering viral stories, trends and engaging content.",
+"url":"https://diply.com"
+},
+{
+"id":295,
+"name":"Mashable Entertainment",
+"category":"entertainment",
+"description":"Entertainment section offering news, trends and digital culture content.",
+"url":"https://mashable.com"
+},
+{
+"id":296,
+"name":"The Verge Entertainment",
+"category":"entertainment",
+"description":"Platform covering entertainment, technology and digital culture updates.",
+"url":"https://www.theverge.com"
+},
+{
+"id":297,
+"name":"Vice Entertainment",
+"category":"entertainment",
+"description":"Media platform offering documentaries, culture and entertainment content.",
+"url":"https://www.vice.com"
+},
+{
+"id":298,
+"name":"PopSugar",
+"category":"entertainment",
+"description":"Entertainment and lifestyle platform offering celebrity news and trending content.",
+"url":"https://www.popsugar.com"
+},
+{
+"id":299,
+"name":"Collider Extras",
+"category":"entertainment",
+"description":"Entertainment platform offering extended content, interviews and features.",
+"url":"https://collider.com"
+},
+{
+"id":300,
+"name":"ScreenCrush Extras",
+"category":"entertainment",
+"description":"Platform offering deep dives, explainers and entertainment analysis content.",
+"url":"https://screencrush.com"
+}
+]
