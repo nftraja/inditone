@@ -79,7 +79,7 @@ html,body{
 
 .card-desc,
 .list-desc{
-  font-size:13px;
+  font-size:13.5px;
   color:#e6e6e6;
   line-height:1.5;
 }
@@ -87,7 +87,7 @@ html,body{
 
 /* ================= GLASS CARD ================= */
 .glass-card{
-  padding:18px;
+  padding:20px;
   border-radius:var(--radius-lg);
   background:rgba(255,255,255,.04);
   backdrop-filter:blur(10px);
@@ -113,7 +113,7 @@ html,body{
   position:relative;
   display:block;
   border-radius:var(--radius-md);
-  padding:12px;
+  padding:14px;
   text-align:center;
   text-decoration:none;
 
@@ -155,7 +155,7 @@ html,body{
 /* ===== CATEGORY ICON ===== */
 .category-box span{
   display:block;
-  font-size:18px;
+  font-size:16px;
   margin-bottom:5px;
 }
 
@@ -201,7 +201,7 @@ html,body{
 /* ================= BUTTON ================= */
 .btn{
   display:inline-block;
-  padding:8px 16px;
+  padding:8px 12px;
   border-radius:999px;
   background:linear-gradient(135deg,#00ff88,#00c6ff,#7f00ff);
   color:#000;
@@ -217,9 +217,9 @@ html,body{
 .drawer{
   position:fixed;
   top:0;
-  left:-250px;
+  left:-150px;
   width:80%;
-  max-width:260px;
+  max-width:150px;
   height:100vh;
   background:rgba(5,5,10,.97);
   padding-top:10px;
