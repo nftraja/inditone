@@ -189,12 +189,14 @@ async function renderPlatforms(){
 }
 
 
-// ===== INIT =====
-document.addEventListener("DOMContentLoaded", () => {
+// ===============================
+// 🔥 ZOOM + DOUBLE TAP BLOCK (FINAL)
+// ===============================
 
-  // AUTO DETECT CATEGORY PAGE (SAFE METHOD)
-  if(document.getElementById("platformContainer")){
-    renderPlatforms();
-  }
+document.addEventListener("gesturestart", function (e) {
+  e.preventDefault();
+});
 
+document.addEventListener("dblclick", function (e) {
+  e.preventDefault();
 });
