@@ -70,13 +70,13 @@ html,body{
   font-size:14px;
   font-weight:600;
   margin-bottom:8px;
-  color:#ffffff;
+  color:#00ff88;
 }
 
 .card-desc,
 .list-desc{
   font-size:13.5px;
-  color:#e6e6e6;
+  color:#ffffff;
   line-height:1.5;
 }
 
