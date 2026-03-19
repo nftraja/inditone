@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Inditone Directory</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="app-header">
+  <button class="menu-btn" onclick="toggleDrawer()">☰</button>
+  <div id="pageTitle">Category</div>
+</div>
+
+<!-- DRAWER -->
+<div class="drawer" id="drawer">
+
+  <a href="#" class="drawer-back" onclick="closeDrawer()">← Back</a>
+
+  <a href="index.html">🏠 Home</a>
+  <a href="category.html?type=movies">🎬 Movies</a>
+  <a href="category.html?type=webseries">📺 Web Series</a>
+  <a href="category.html?type=music">🎵 Music</a>
+  <a href="category.html?type=sports">⚽ Sports</a>
+  <a href="category.html?type=livetv">📡 Live TV</a>
+  <a href="category.html?type=shortvideo">🎥 Short Video</a>
+  <a href="category.html?type=podcasts">🎧 Podcasts</a>
+
+</div>
+
+<div class="drawer-overlay" id="overlay" onclick="closeDrawer()"></div>
+
+<!-- MAIN -->
+<div class="main-content">
+
+  <!-- CATEGORY TITLE -->
+  <div class="glass-card">
+    <div class="card-title" id="categoryTitle">Loading...</div>
+    <div class="card-desc">
+      Explore curated entertainment platforms including streaming services, music apps and digital media sources.
+    </div>
+  </div>
+
+  <!-- CATEGORY CONTAINER -->
+  <div id="categoryContainer" class="grid"></div>
+
+  <!-- PLATFORM CONTAINER -->
+  <div id="platformContainer"></div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+
+  <a href="index.html" class="bottom-item">
+    <span>🏠</span>
+    Home
+  </a>
+
+  <a href="https://qbank.nftraja.com/" target="_blank" class="bottom-item">
+    <span>📘</span>
+    QBank
+  </a>
+
+  <a href="https://tool.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🛠</span>
+    Tools
+  </a>
+
+  <a href="https://www.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🌐</span>
+    NFTRaja
+  </a>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
