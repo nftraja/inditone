@@ -216,7 +216,7 @@ html,body{
 .drawer{
   position:fixed;
   top:0;
-  left:-260px;
+  left:-250px;
   width:80%;
   max-width:260px;
   height:100vh;
@@ -258,6 +258,11 @@ html,body{
   display:block;
 }
 
+/* ===== BODY SCROLL LOCK ===== */
+body.drawer-open{
+  overflow:hidden;
+  height:100vh;
+}
 
 /* ================= BOTTOM NAV ================= */
 .bottom-nav{
