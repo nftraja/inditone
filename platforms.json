@@ -2118,5 +2118,145 @@
 "category":"entertainment",
 "description":"Platform offering deep dives, explainers and entertainment analysis content.",
 "url":"https://screencrush.com"
+},
+  {
+"id":301,
+"name":"Cartoon Network",
+"category":"cartoons",
+"description":"Popular global kids entertainment network offering animated shows, cartoons and fun content for children.",
+"url":"https://www.cartoonnetwork.com"
+},
+{
+"id":302,
+"name":"Pogo TV",
+"category":"cartoons",
+"description":"Indian kids channel featuring cartoons, animated series and family friendly entertainment content.",
+"url":"https://www.pogo.tv"
+},
+{
+"id":303,
+"name":"Nickelodeon",
+"category":"cartoons",
+"description":"Global kids entertainment platform offering cartoons, shows and animated series for children.",
+"url":"https://www.nick.com"
+},
+{
+"id":304,
+"name":"Disney Channel",
+"category":"cartoons",
+"description":"Entertainment platform offering cartoons, animated shows and kids content from Disney.",
+"url":"https://disneychannel.disney.com"
+},
+{
+"id":305,
+"name":"Disney Junior",
+"category":"cartoons",
+"description":"Kids platform offering preschool friendly cartoons and educational animated shows.",
+"url":"https://disneyjunior.disney.com"
+},
+{
+"id":306,
+"name":"Hungama TV",
+"category":"cartoons",
+"description":"Indian kids entertainment channel featuring cartoons, anime and animated shows.",
+"url":"https://www.hungamatv.com"
+},
+{
+"id":307,
+"name":"CN App",
+"category":"cartoons",
+"description":"Cartoon Network official app offering games, videos and full episodes of popular cartoons.",
+"url":"https://www.cartoonnetwork.com/apps"
+},
+{
+"id":308,
+"name":"Nick App",
+"category":"cartoons",
+"description":"Nickelodeon app offering cartoons, episodes and interactive kids entertainment content.",
+"url":"https://www.nick.com/app"
+},
+{
+"id":309,
+"name":"YouTube Kids",
+"category":"cartoons",
+"description":"Safe video platform for kids offering cartoons, learning videos and entertainment content.",
+"url":"https://www.youtubekids.com"
+},
+{
+"id":310,
+"name":"Netflix Kids",
+"category":"cartoons",
+"description":"Kids section of Netflix offering cartoons, animated movies and safe children content.",
+"url":"https://www.netflix.com/kids"
+},
+{
+"id":311,
+"name":"Disney+ Kids",
+"category":"cartoons",
+"description":"Streaming platform offering Disney cartoons, animated movies and kids friendly shows.",
+"url":"https://www.disneyplus.com"
+},
+{
+"id":312,
+"name":"Amazon Prime Kids",
+"category":"cartoons",
+"description":"Kids section of Prime Video offering cartoons, animated series and children content.",
+"url":"https://www.primevideo.com"
+},
+{
+"id":313,
+"name":"Toon Goggles",
+"category":"cartoons",
+"description":"Streaming platform dedicated to kids cartoons, animated shows and educational content.",
+"url":"https://www.toongoggles.com"
+},
+{
+"id":314,
+"name":"PBS Kids",
+"category":"cartoons",
+"description":"Educational kids platform offering cartoons, games and learning based animated content.",
+"url":"https://pbskids.org"
+},
+{
+"id":315,
+"name":"Boomerang",
+"category":"cartoons",
+"description":"Cartoon streaming platform offering classic animated shows and nostalgic content.",
+"url":"https://www.boomerang.com"
+},
+{
+"id":316,
+"name":"Kidoodle TV",
+"category":"cartoons",
+"description":"Safe streaming service offering kids cartoons and family friendly animated content.",
+"url":"https://www.kidoodle.tv"
+},
+{
+"id":317,
+"name":"Super Simple",
+"category":"cartoons",
+"description":"Kids content platform offering animated songs, cartoons and early learning videos.",
+"url":"https://supersimple.com"
+},
+{
+"id":318,
+"name":"Moonbug Kids",
+"category":"cartoons",
+"description":"Platform offering popular kids cartoons like Cocomelon and educational animations.",
+"url":"https://www.moonbug.com"
+},
+{
+"id":319,
+"name":"Cartoonito",
+"category":"cartoons",
+"description":"Kids cartoon platform offering preschool content and fun animated shows.",
+"url":"https://www.cartoonito.com"
+},
+{
+"id":320,
+"name":"Nick Jr",
+"category":"cartoons",
+"description":"Preschool kids platform offering cartoons and educational animated shows.",
+"url":"https://www.nickjr.com"
 }
 ]
