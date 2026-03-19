@@ -293,6 +293,11 @@ html,body{
   color:#00ff88;
 }
 
+/* REMOVE EXTRA GAP AFTER INTRO (CATEGORY PAGE FIX) */
+#platformContainer .list-card:first-child{
+  margin-top:0;
+}
+
 
 /* ================= GLOBAL SAFE ================= */
 body{
