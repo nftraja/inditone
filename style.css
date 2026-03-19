@@ -61,7 +61,7 @@ html,body{
 /* ================= MAIN ================= */
 
 .main-content{
-  padding:40px 8px 40px;
+  padding:60px 8px 40px;
 }
 
 /* ================= TYPO ================= */
@@ -83,7 +83,6 @@ html,body{
 /* ================= GLASS ================= */
 
 .glass-card{
-  margin:8px 6px;
   padding:14px;
   border-radius:var(--radius-lg);
   background:rgba(255,255,255,.04);
