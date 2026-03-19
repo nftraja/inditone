@@ -1,0 +1,293 @@
+/* =====================================
+   GAMERAJA – FINAL CORE.CSS (LOCKED)
+   Gaming Dark Neon Glass UI (Performance Safe)
+===================================== */
+
+:root{
+
+  --bg-main:linear-gradient(135deg,#050505,#0f0f0f,#151515);
+  --bg-elev-1:rgba(255,255,255,.04);
+  --bg-elev-2:rgba(255,255,255,.06);
+
+  --accent:#00ff88;
+
+  --text-primary:#ffffff;
+  --text-secondary:#b9b1a8;
+
+  --radius-lg:16px;
+  --radius-md:12px;
+  --radius-sm:8px;
+}
+
+/* RESET */
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+
+html,body{
+  background:var(--bg-main);
+  color:var(--text-primary);
+}
+
+/* ================= HEADER ================= */
+
+.app-header{
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  height:54px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:0 14px;
+  backdrop-filter:blur(12px);
+  background:rgba(10,10,10,.75);
+  border-bottom:1px solid rgba(0,255,136,.25);
+  z-index:1000;
+}
+
+.menu-btn{
+  background:none;
+  border:none;
+  color:var(--accent);
+  font-size:22px;
+  cursor:pointer;
+}
+
+/* ================= MAIN ================= */
+
+.main-content{
+  padding:60px 10px 60px;
+}
+
+/* ================= TYPO ================= */
+
+.card-title{
+  font-size:14px;
+  font-weight:600;
+  margin-bottom:8px;
+  color:#66ffb3;
+}
+
+.card-desc,
+.list-desc{
+  font-size:13.5px;
+  color:#e6e6e6;
+  line-height:1.5;
+}
+
+/* ================= GLASS ================= */
+
+.glass-card{
+  margin:8px 6px;
+  padding:14px;
+  border-radius:var(--radius-lg);
+  background:rgba(255,255,255,.04);
+  backdrop-filter:blur(10px);
+  border:1px solid rgba(0,255,136,.25);
+  box-shadow:
+    0 6px 18px rgba(0,0,0,.7),
+    inset 0 1px 0 rgba(255,255,255,.15),
+    0 0 15px rgba(0,255,136,.05);
+}
+
+/* ================= GRID ================= */
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:10px;
+  padding:8px;
+}
+
+/* ================= CATEGORY ================= */
+
+.category-box{
+  position:relative;
+  display:block;
+  border-radius:var(--radius-md);
+  padding:14px;
+  text-align:center;
+  text-decoration:none;
+  color:#ffffff !important;
+  border:1px solid rgba(255,255,255,.18);
+  overflow:hidden;
+  box-shadow:
+    0 6px 16px rgba(0,0,0,.7),
+    inset 0 1px 0 rgba(255,255,255,.2),
+    inset 0 -4px 6px rgba(0,0,0,.6);
+  transition:.2s ease;
+  text-shadow:none;
+  font-weight:500;
+  z-index:0;
+}
+
+.category-box::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:rgba(0,0,0,.2);
+  z-index:1;
+  pointer-events:none;
+}
+
+.category-box span,
+.category-box *{
+  position:relative;
+  z-index:2;
+  color:#ffffff !important;
+}
+
+.category-box span{
+  display:block;
+  font-size:20px;
+  margin-bottom:6px;
+}
+
+.category-box:hover{
+  transform:translateY(-3px);
+}
+
+/* GRADIENTS */
+.category-box:nth-child(10n+1){background:linear-gradient(135deg,#00ff88,#00c97a);}
+.category-box:nth-child(10n+2){background:linear-gradient(135deg,#00c6ff,#0072ff);}
+.category-box:nth-child(10n+3){background:linear-gradient(135deg,#ff7a18,#ff3d3d);}
+.category-box:nth-child(10n+4){background:linear-gradient(135deg,#7f00ff,#e100ff);}
+.category-box:nth-child(10n+5){background:linear-gradient(135deg,#00b09b,#96c93d);}
+.category-box:nth-child(10n+6){background:linear-gradient(135deg,#ff8a00,#e52e71);}
+.category-box:nth-child(10n+7){background:linear-gradient(135deg,#36d1dc,#5b86e5);}
+.category-box:nth-child(10n+8){background:linear-gradient(135deg,#00ffcc,#0099ff);}
+.category-box:nth-child(10n+9){background:linear-gradient(135deg,#f7971e,#ffd200);}
+.category-box:nth-child(10n+10){background:linear-gradient(135deg,#ff512f,#dd2476);}
+
+/* ================= LIST ================= */
+
+.list-card{
+  border-radius:var(--radius-md);
+  padding:14px;
+  margin:8px 6px;
+  background:rgba(255,255,255,.03);
+  border:1px solid rgba(0,255,136,.25);
+  box-shadow:
+    0 6px 18px rgba(0,0,0,.7);
+}
+
+.list-title{
+  font-size:15px;
+  font-weight:700;
+  color:#00ff88;
+  margin-bottom:6px;
+  letter-spacing:.3px;
+}
+
+/* ================= BUTTON ================= */
+
+.btn{
+  display:inline-block;
+  padding:8px 16px;
+  border-radius:999px;
+  background:linear-gradient(135deg,#00ff88,#00c6ff,#7f00ff);
+  color:#000;
+  font-size:12px;
+  font-weight:700;
+  text-decoration:none;
+  margin-top:10px;
+  box-shadow:0 4px 12px rgba(0,255,136,.4);
+}
+
+/* ================= DRAWER ================= */
+
+.drawer{
+  position:fixed;
+  top:0;
+  left:-260px;
+  width:80%;
+  max-width:260px;
+  height:100vh;
+  background:rgba(5,5,10,.97);
+  padding-top:10px;
+  transition:left .28s ease;
+  z-index:2000;
+  overflow-y:auto;
+  overflow-x:hidden;
+  -webkit-overflow-scrolling:touch;
+  touch-action:pan-y;
+  border-right:1px solid rgba(0,255,136,.25);
+}
+
+.drawer.active{
+  left:0;
+}
+
+.drawer a{
+  display:block;
+  padding:12px 14px;
+  font-size:13px;
+  color:#00ff88;
+  text-decoration:none;
+  border-bottom:1px solid rgba(255,255,255,.05);
+}
+
+/* ================= OVERLAY ================= */
+
+.drawer-overlay{
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,.7);
+  display:none;
+  z-index:1500;
+}
+
+.drawer-overlay.active{
+  display:block;
+}
+
+/* ================= BOTTOM NAV ================= */
+
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
+  height:60px;
+  backdrop-filter:blur(12px);
+  background:rgba(10,10,10,.9);
+  border-top:1px solid rgba(0,255,136,.25);
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  z-index:999;
+}
+
+.bottom-item{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  text-decoration:none;
+  color:#66ffb3;
+  font-size:13px;
+}
+
+.bottom-item span{
+  font-size:18px;
+}
+
+.bottom-item.active{
+  color:#00ff88;
+}
+
+/* ================= GLOBAL SAFE ================= */
+
+body{
+  padding-bottom:70px;
+}
+
+@supports(padding:max(0px)){
+  body{
+    padding-bottom:max(70px, env(safe-area-inset-bottom));
+  }
+}
