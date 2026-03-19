@@ -1,6 +1,6 @@
 // ===============================
 // INDITONE FINAL APP ENGINE (LOCKED)
-// ROOT STRUCTURE COMPATIBLE
+// PRODUCTION READY VERSION
 // ===============================
 
 
@@ -53,10 +53,10 @@ const categoryMap = {
 };
 
 
-// ===== LOAD JSON (ROOT FIXED) =====
+// ===== LOAD JSON (FIXED ABSOLUTE PATH) =====
 async function loadPlatforms(){
   try{
-    const res = await fetch("platforms.json"); // ✅ ROOT PATH FIXED
+    const res = await fetch("/inditone/platforms.json"); // 🔥 FINAL FIX
 
     if(!res.ok){
       throw new Error("HTTP error " + res.status);
@@ -128,7 +128,6 @@ function getCTA(category){
 
 // ===== CREATE CARD =====
 function createCard(item){
-
   return `
     <div class="list-card">
 
@@ -159,14 +158,22 @@ async function renderPlatforms(){
 
   renderCategoryTitle(type);
 
-  const data = await loadPlatforms();
-
   const container = document.getElementById("platformContainer");
 
   if(!container){
     console.warn("⚠️ platformContainer not found");
     return;
   }
+
+  // 🔥 LOADING STATE
+  container.innerHTML = `
+    <div class="glass-card">
+      <div class="card-title">Loading...</div>
+      <div class="card-desc">Fetching platforms...</div>
+    </div>
+  `;
+
+  const data = await loadPlatforms();
 
   // FILTER
   const filtered = data.filter(item => item.category === type);
@@ -189,10 +196,29 @@ async function renderPlatforms(){
 }
 
 
-// ===============================
-// 🔥 ZOOM + DOUBLE TAP BLOCK (FINAL)
-// ===============================
+// ===== INIT =====
+document.addEventListener("DOMContentLoaded", () => {
 
+  if(document.getElementById("platformContainer")){
+    renderPlatforms();
+  }
+
+});
+
+
+// ===============================
+// 🔥 BACK/FORWARD CACHE FIX
+// ===============================
+window.addEventListener("pageshow", function(event){
+  if(event.persisted){
+    window.location.reload();
+  }
+});
+
+
+// ===============================
+// 🔥 ZOOM + DOUBLE TAP BLOCK
+// ===============================
 document.addEventListener("gesturestart", function (e) {
   e.preventDefault();
 });
