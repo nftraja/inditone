@@ -1,6 +1,6 @@
 // ===============================
 // INDITONE FINAL APP ENGINE (LOCKED)
-// PRODUCTION READY VERSION
+// ULTRA STABLE VERSION (JSON SAFE)
 // ===============================
 
 
@@ -8,16 +8,12 @@
 function toggleDrawer(){
   document.getElementById("drawer").classList.add("active");
   document.getElementById("overlay").classList.add("active");
-
-  // 🔥 BODY SCROLL LOCK
-  document.body.classList.add("drawer-open");
+  document.body.classList.add("drawer-open"); // lock scroll
 }
 
 function closeDrawer(){
   document.getElementById("drawer").classList.remove("active");
   document.getElementById("overlay").classList.remove("active");
-
-  // 🔥 REMOVE SCROLL LOCK
   document.body.classList.remove("drawer-open");
 }
 
@@ -49,14 +45,23 @@ const categoryMap = {
   "music-tools":"Music Tools",
   "awards":"Awards",
   "tickets":"Tickets",
-  "entertainment":"Entertainment"
+  "entertainment":"Entertainment",
+  "cartoons":"Cartoon World"
 };
 
 
-// ===== LOAD JSON (FIXED ABSOLUTE PATH) =====
+// ===== NORMALIZE FUNCTION (🔥 MAIN FIX) =====
+function normalize(str){
+  return (str || "")
+    .toLowerCase()
+    .replace(/[\s-_]/g,""); // remove space, dash, underscore
+}
+
+
+// ===== LOAD JSON =====
 async function loadPlatforms(){
   try{
-    const res = await fetch("/inditone/platforms.json"); // 🔥 FINAL FIX
+    const res = await fetch("/inditone/platforms.json"); // ✅ absolute path
 
     if(!res.ok){
       throw new Error("HTTP error " + res.status);
@@ -86,7 +91,11 @@ function renderCategoryTitle(type){
 
 // ===== CTA TEXT =====
 function getCTA(category){
-  switch(category){
+
+  const cat = normalize(category);
+
+  switch(cat){
+
     case "music":
       return "🎧 Listen Now";
 
@@ -94,6 +103,7 @@ function getCTA(category){
     case "webseries":
     case "livetv":
     case "anime":
+    case "cartoons":
       return "🎬 Watch Now";
 
     case "sports":
@@ -152,7 +162,7 @@ async function renderPlatforms(){
   const type = getQueryParam("type");
 
   if(!type){
-    console.warn("⚠️ No category type found in URL");
+    console.warn("⚠️ No category type found");
     return;
   }
 
@@ -165,7 +175,7 @@ async function renderPlatforms(){
     return;
   }
 
-  // 🔥 LOADING STATE
+  // 🔥 LOADING UI
   container.innerHTML = `
     <div class="glass-card">
       <div class="card-title">Loading...</div>
@@ -175,8 +185,13 @@ async function renderPlatforms(){
 
   const data = await loadPlatforms();
 
-  // FILTER
-  const filtered = data.filter(item => item.category === type);
+  // 🔥 SMART FILTER (JSON SAFE)
+  const filtered = data.filter(item => {
+    if(Array.isArray(item.category)){
+      return item.category.some(cat => normalize(cat) === normalize(type));
+    }
+    return normalize(item.category) === normalize(type);
+  });
 
   // EMPTY STATE
   if(filtered.length === 0){
@@ -207,7 +222,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 // ===============================
-// 🔥 BACK/FORWARD CACHE FIX
+// 🔥 CACHE FIX
 // ===============================
 window.addEventListener("pageshow", function(event){
   if(event.persisted){
