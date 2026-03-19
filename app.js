@@ -58,24 +58,34 @@ function normalize(str){
 }
 
 
-// ===== LOAD JSON =====
+// ===== LOAD JSON (FINAL FIXED BLOCK) =====
 async function loadPlatforms(){
   try{
-    const res = await fetch("/inditone/platforms.json"); // ✅ absolute path
+
+    // ✅ SAME DIRECTORY FETCH (FINAL)
+    const res = await fetch("./platforms.json");
 
     if(!res.ok){
       throw new Error("HTTP error " + res.status);
     }
 
     const data = await res.json();
+
+    // 🔥 SAFETY CHECK (INVALID JSON HANDLING)
+    if(!Array.isArray(data)){
+      console.error("❌ Invalid JSON format");
+      return [];
+    }
+
     return data;
 
   }catch(e){
     console.error("❌ JSON LOAD ERROR:", e);
+
+    // 🔥 UI SAFE RETURN
     return [];
   }
 }
-
 
 // ===== RENDER CATEGORY TITLE =====
 function renderCategoryTitle(type){
